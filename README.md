@@ -1,2 +1,2 @@
 # AulaHtmlGuanabara
-Primeria versão do etudo
+Primeria versão do estudo
